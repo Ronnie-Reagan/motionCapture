@@ -2,7 +2,7 @@
 
 A lightweight, real-time motion amplification tool built in Python using OpenCV.  
 Supports webcam or video input, with a clean Tkinter-based GUI or headless mode for quick testing.
-
+![Demo](media/demo.gif)
 ---
 
 ## 📦 Requirements
